@@ -1,16 +1,31 @@
-## Hi there 👋
+# Всеволод Елисеев
 
-<!--
-**Elvsevolod/Elvsevolod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент программной инженерии АлтГУ. Разрабатываю проекты на Python с использованием языковых моделей и RAG: работаю с поиском по документам, базами знаний и оценкой ответов.
 
-Here are some ideas to get you started:
+## Избранные проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [ASMU RAG — образовательная платформа](https://github.com/zentokyo/frontend_AGMY-RAG)
+
+Командная платформа для работы с учебными материалами, чат-ассистентом и проверкой знаний. Участвовал в переносе серверной части на FastAPI, загрузке материалов в базу знаний, оценке ответов и развитии статистики.
+
+**Технологии:** Python, FastAPI, React, PostgreSQL, Qdrant, MinIO, GigaChat, DeepSeek, Docker.
+
+### [AGMY_RAG — ранняя версия медицинского ассистента](https://github.com/zentokyo/AGMY_RAG)
+
+Закрытый командный репозиторий медицинского проекта. Работал над версиями RAG, базой знаний, созданием эмбеддингов и подключением языковой модели. Код доступен участникам проекта.
+
+### [AlphaHack — поиск по банковским материалам](https://github.com/zentokyo/AlphaHack)
+
+Закрытый командный репозиторий с экспериментами по поиску документов для ответов на банковские вопросы. В проекте используются эмбеддинги, векторная база и повторное ранжирование; участвовал в работе с данными. Код доступен участникам проекта.
+
+### [NSKHack — консультант по закупкам](https://github.com/zentokyo/NSKHack)
+
+Командный RAG-ассистент для вопросов о закупках и работе с электронной торговой площадкой. Работал над несколькими версиями RAG-части.
+
+**Технологии:** Python, LangChain, Chroma, Ollama, Qwen.
+
+### [ai_support — юридический RAG-ассистент](https://github.com/zentokyo/ai_support)
+
+Командный Telegram-бот для поиска информации в юридических документах. Работал над ранней версией бота, базой знаний и подключением GigaChat API.
+
+**Технологии:** Python, LangChain, Chroma, GigaChat, Telegram Bot API.
